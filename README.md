@@ -1,6 +1,6 @@
 # serilog-sinks-raygun-aspnetcore
 
-A Serilog sink that writes events to Raygun, targeting .NET Standard 2.0 Framework and using the MindscapeHP AspNetCore
+A Serilog sink that writes events to Raygun, targeting .NET Standard 2.0 Framework and using the MindscapeHQ AspNetCore
 
 ## Usage
 
